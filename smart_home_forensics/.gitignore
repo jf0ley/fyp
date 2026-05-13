@@ -1,0 +1,12 @@
+FYP/
+__pycache__/
+*.pyc
+.DS_Store
+events.db
+*.db
+forensic_report.pdf
+forensic_report.md
+uploads/
+data/processed/iot23/malware_sample.csv
+*.tar
+*.log
